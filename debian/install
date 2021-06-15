@@ -1,1 +1,3 @@
 data/apt-lan-rsyncd.conf    etc
+# Create empty apt-lan shared folder.
+data/.placeholder           var/cache/apt-lan
